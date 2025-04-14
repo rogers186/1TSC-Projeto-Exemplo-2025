@@ -1,3 +1,5 @@
+// Programa de aplicacao que administra o cadatro de produtos
+// Inclui e consulta dados de produto
 
 public class Produto {
 
